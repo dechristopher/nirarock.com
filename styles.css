@@ -1,0 +1,330 @@
+.homehead1 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 25px;
+	line-height: 30px;
+	color: #3e412a;
+	padding: 0 0 15px 0;
+}
+.homehead2 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 20px;
+	line-height: 23px;
+	color: d0da8e;
+}
+.head1 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 20px;
+	line-height: 23px;
+	color: #3e412a;
+	padding: 0 0 10px 0;
+}
+.head1pad0 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 20px;
+	line-height: 23px;
+	color: #3e412a;
+}
+.head2 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #1d1e16;
+	font-style: italic;
+	padding: 10px 0 5px 0;
+}
+.textpad4 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 0 0 4px 0;
+}
+.textpad4 a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad4 a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad4 a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #686d44;
+}
+.text {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 0 0 8px 0;
+}
+.text a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.text a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.text a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #686d44;
+}
+.textpad12 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 0 0 12px 0;
+}
+.textpad12 a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad12 a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad12 a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #686d44;
+}
+.textpad16 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 0 0 16px 0;
+}
+.textpad16 a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad16 a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textpad16 a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #686d44;
+	text-decoration: underline;
+}
+.textpad24 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 0 0 24px 0;
+}
+.textpad24 a:link {
+	font-weight: normal;
+	color: #1d1e16;
+	text-decoration: underline;
+}
+.textpad24 a:visited {
+	font-weight: normal;
+	color: #1d1e16;
+	text-decoration: underline;
+}
+.textpad24 a:hover {
+	font-weight: normal;
+	color: #686d44;
+	text-decoration: underline;
+}
+.texttoppad4 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #1d1e16;
+	padding: 4px 0 0 0;
+}
+.texttoppad4 a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.texttoppad4 a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.texttoppad4 a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #686d44;
+}
+.textbold {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #1d1e16;
+}
+.textbold a:link {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textbold a:visited {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #1d1e16;
+}
+.textbold a:hover {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #686d44;
+	}
+.textred {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #db5200;
+	padding: 0 0 8px 0;
+}
+.milestonehead2 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #1d1e16;
+	font-style: italic;
+	padding: 12px 0 12px 0;
+}
+.mainthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #614982;
+}
+.maintitalic {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 11px;
+	font-style:italic;
+	line-height: 16px;
+	color: #9fab67;
+	padding: 0 0 8px 0;
+}
+.eventhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	font-weight: bold;
+	color: #614982;
+}
+.eventtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #614982;
+	padding: 0 0 12px 0;
+}
+.eventtext a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #614982;
+	text-decoration: underline;
+}
+.eventtext a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	text-decoration: underline;
+	color: #614982;
+}
+.eventtext a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #a087c2;
+	text-decoration: underline;
+}
+.thumbnails {
+	padding: 0 0 10px 0;
+}
+.milestonedottop {
+	padding: 5px 0 0 2px;
+}
+.milestonedotcenter {
+	padding: 0 0 18px 2px;
+}
+.attribution {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #9fab67;
+}
+.attribution a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #9fab67;
+	}
+.attribution a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #9fab67;
+	}
+.attribution a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #899554;
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	line-height: 11px;
+	color: #9fab67;
+}
+.caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 13px;
+	font-weight: bold;
+	color: #3e412a;
+	padding: 0 0 10px 0;
+}
