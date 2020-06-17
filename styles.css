@@ -1,3 +1,6 @@
+body{
+	overflow-y: hidden;
+}
 .homehead1 {
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-size: 25px;
@@ -9,7 +12,7 @@
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-size: 20px;
 	line-height: 23px;
-	color: d0da8e;
+	color: #d0da8e;
 }
 .head1 {
 	font-family: Georgia, Times New Roman, Times, serif;
