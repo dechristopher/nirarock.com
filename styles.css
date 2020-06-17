@@ -1,5 +1,8 @@
-body{
-	overflow-y: hidden;
+body {
+	-ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+	display: none;
 }
 .homehead1 {
 	font-family: Georgia, Times New Roman, Times, serif;
