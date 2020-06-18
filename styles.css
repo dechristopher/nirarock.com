@@ -68,7 +68,7 @@ body::-webkit-scrollbar {
 }
 .text {
 	font-family: Georgia, Times New Roman, Times, serif;
-	font-size: 11px;
+	font-size: 12px;
 	line-height: 16px;
 	color: #1d1e16;
 	padding: 0 0 8px 0;
@@ -333,4 +333,16 @@ body::-webkit-scrollbar {
 	font-weight: bold;
 	color: #3e412a;
 	padding: 0 0 10px 0;
+}
+.skip-link {
+	position: absolute;
+	top: -40px;
+	left: 0;
+	background: #000000;
+	color: white;
+	padding: 8px;
+	z-index: 100;
+}
+.skip-link:focus {
+	top: 0;
 }
